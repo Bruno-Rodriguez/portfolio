@@ -1,4 +1,4 @@
-# Data Scientist
+# Welcome to my personal webpage!
 
 I am a data scientist with a background in physics and over four years of experience in analyzing, processing, and visualizing complex data. Specialized in big data analysis, statistical modeling, and developing data-driven solutions. Strong skills in data cleaning, query optimization, and visualization creation. Effective communicator, able to translate technical fi ndings into clear narratives for technical and non-technical audiences.
 
@@ -6,8 +6,9 @@ I am a data scientist with a background in physics and over four years of experi
 - M.S., Physics	| Rheinische Friedrich-Wilhelms-Universität Bonn, Germany (_August 2024_)
 - B.S., Physics | Pontificia Universidad Católica del Perú, Peru (_March 2018_)
 
-#### Technical Skills: Python programming (Numpy, SciPy) - Data analysis (Pandas, SQL) - Machine Learning (scikit-learn) - Deep Learning (PyTorch) - Data visualization (Seaborn, Power BI) - Version control (Git, GitHub)
-[![My Skills](https://skillicons.dev/icons?i=py,postgres,anaconda,pytorch,sklearn,vscode,git,github)](https://skillicons.dev)
+### Technical Skills:
+Python programming (Numpy, SciPy) - Data analysis (Pandas, SQL) - Machine Learning (scikit-learn) - Deep Learning (PyTorch) - Data visualization (Seaborn, Power BI) - Version control (Git, GitHub)
+[![My Skills](https://skillicons.dev/icons?i=py,postgres,anaconda,pytorch,sklearn,vscode,git,github,latex)](https://skillicons.dev)
 
 ## Projects
 
