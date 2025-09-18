@@ -1,14 +1,19 @@
-# Welcome to my personal webpage!
+# Portfolio
 
-I am a data scientist with a background in physics and over four years of experience in analyzing, processing, and visualizing complex data. Specialized in big data analysis, statistical modeling, and developing data-driven solutions. Strong skills in data cleaning, query optimization, and visualization creation. Effective communicator, able to translate technical fi ndings into clear narratives for technical and non-technical audiences.
+Hi! My name is Bruno Rodriguez, and I am a data scientist with a background in physics and over four years of experience in analyzing, processing, and visualizing complex data. Specialized in big data analysis, statistical modeling, and developing data-driven solutions. Strong skills in data cleaning, query optimization, and visualization creation. Effective communicator, able to translate technical fi ndings into clear narratives for technical and non-technical audiences.
+
+Welcome to my portfolio website. Below you will find 
 
 ## Education					       		
 - M.S., Physics	| Rheinische Friedrich-Wilhelms-Universität Bonn, Germany (_August 2024_)
 - B.S., Physics | Pontificia Universidad Católica del Perú, Peru (_March 2018_)
 
-### Technical Skills:
+## Technical Skills
+Some of the technological tools that I regularly use in my projects, both personal and professional:
+
 Python programming (Numpy, SciPy) - Data analysis (Pandas, SQL) - Machine Learning (scikit-learn) - Deep Learning (PyTorch) - Data visualization (Seaborn, Power BI) - Version control (Git, GitHub)
-[![My Skills](https://skillicons.dev/icons?i=py,postgres,anaconda,pytorch,sklearn,vscode,git,github,latex)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=py,postgres,anaconda,pytorch,sklearn,vscode,git,github,latex&theme=light)](https://skillicons.dev)
 
 ## Projects
 
@@ -19,8 +24,9 @@ At the moment I am still working on adding more data science projects to this pa
 
 ### CosmoAmautas
 
+CosmoAmautas is a science outreach project funded by the International Astronomical Union's [Office of Astronomy for Development](https://astro4dev.org/), with the goal of expanding interest and knowledge about astronomy in young students in Peru, with a particular focus on encouraging the participation of girls and women in STEM fields. The project is run entirely by a talented group of peruvian researchers, educators and artists, and I have been a part of the team since its inception in 2020. We have . You can learn more about CosmoAmautas at the project's official website: [cosmoamautas.org](https://www.cosmoamautas.org/)
 
-We also wrote a book to explain the theoretical conccepts introduced during the workshops, and to serve as guides during the hands-on sessions. I wrote all of Chapter 4 and help edit the book, which is in Spanish since it's target audience are high school students in Peru. You can check out the book's abstract on the Astrophysics Data System: [ADS](https://ui.adsabs.harvard.edu/abs/2021arXiv210911945C/abstract), or access the PDF directly: [The CosmoAmautas book](https://arxiv.org/pdf/2109.11945).
+We also wrote a book to explain the theoretical conccepts introduced during the workshops, and to serve as a guide during the hands-on sessions. I wrote all of Chapter 4 and helped edit the book as a whole, which is in Spanish since it's target audience are high school students in rural regions of Peru. You can check out the book's abstract on the Astrophysics Data System: [ADS](https://ui.adsabs.harvard.edu/abs/2021arXiv210911945C/abstract), or access the PDF directly here: [The CosmoAmautas Book](https://arxiv.org/pdf/2109.11945).
 
 ## Publications
 Here are some scientific publications to which I contributed:
