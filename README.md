@@ -1,20 +1,29 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+I am a data scientist with a background in physics and over four years of experience in analyzing, processing, and visualizing complex data. Specialized in big data analysis, statistical modeling, and developing data-driven solutions. Strong skills in data cleaning, query optimization, and visualization creation. Effective communicator, able to translate technical fi ndings into clear narratives for technical and non-technical audiences.
 
 ## Education					       		
 - M.S., Physics	| Rheinische Friedrich-Wilhelms-Universität Bonn, Germany (_August 2024_)
 - B.S., Physics | Pontificia Universidad Católica del Perú, Peru (_March 2018_)
 
+#### Technical Skills: Python programming (Numpy, SciPy) - Data analysis (Pandas, SQL) - Machine Learning (scikit-learn) - Deep Learning (PyTorch) - Data visualization (Seaborn, Power BI) - Version control (Git, GitHub)
+[![My Skills](https://skillicons.dev/icons?i=py,postgres,anaconda,pytorch,sklearn,vscode,git,github)](https://skillicons.dev)
+
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+### Hydrostatic pressure as predictor of star formation in nearby galaxies
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+
+At the moment I am still working on adding more data science projects to this page. In the meantime, you can check out my GitHub profile: [Bruno-Rodriguez](https://github.com/Bruno-Rodriguez)
+
+### CosmoAmautas
+
+
+We also wrote a book to explain the theoretical conccepts introduced during the workshops, and to serve as guides during the hands-on sessions. I wrote all of Chapter 4 and help edit the book, which is in Spanish since it's target audience are high school students in Peru. You can check out the book's abstract on the Astrophysics Data System: [ADS](https://ui.adsabs.harvard.edu/abs/2021arXiv210911945C/abstract), or access the PDF directly: [The CosmoAmautas book](https://arxiv.org/pdf/2109.11945).
 
 ## Publications
+Here are some scientific publications to which I contributed:
+
 1. Wallström, Sofia; Dharmawardena, T.; **Rodríguez Marquina, B.**; Scicluna, P.; Srinivasan, S.; Kemper, F.; NESS Collaboration. _Measuring spatially resolved gas-to-dust ratios in AGB stars_ (2019). DOI: [10.1017/S1743921318004994](https://www.cambridge.org/core/journals/proceedings-of-the-international-astronomical-union/article/measuring-spatially-resolved-gastodust-ratios-in-agb-stars/735E39DA4DD01597A73FA2A077F06475)
 2. Calistro Rivera, G.; Bardalez Gagliuffi, D.; Alvarado Urrunaga, D.; Gonzales Quevedo, L.; Kleffman, D.; Meza, E.; Quispe Quispe, A.; Ramos Lázaro, J. M.; Ricra, J.; **Rodríguez Marquina, B.**; Torre Ramirez, E. _The CosmoAmautas project for equitable scientific education in Peru_ (2022). DOI: [10.1038/s41550-022-01605-2](https://www.nature.com/articles/s41550-022-01605-2)
 3. Colombo, D.; Kalinova, V.; Bazzi, Z.; Sanchez, S. F.; Bolatto, A. D.; Wong, T.; Villanueva, V.; Mudivarthi, N.; Rosolowsky, E.; Weiß, A.; French, K. D.; Leroy, A.; Barrera-Ballesteros, J.; Garay-Solis, Y.; Bigiel, F.; Tripathi, A.; **Rodriguez, B.** _The EDGE-CALIFA Survey: An integral field unit-based integrated molecular gas database for galaxy evolution studies in the Local Universe_ (2025). DOI: [10.1051/0004-6361/202453179](https://www.aanda.org/articles/aa/full_html/2025/07/aa53179-24/aa53179-24.html) arXiv: [arXiv:2507.06375](https://arxiv.org/abs/2507.06375)
