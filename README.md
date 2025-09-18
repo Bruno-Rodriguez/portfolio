@@ -22,7 +22,7 @@ Python programming (Numpy, SciPy) - Data analysis (Pandas, SQL) - Machine Learni
 ### Hydrostatic pressure as predictor of star formation
 As part of my Master's degree at the University of Bonn, I wrote my Master's thesis on the relationships between the stelalr mass density, gas mass density, local hydrostatic pressure and the star formation rate density on kiloparsec scales in nearby galaxies, outside the Milky Way but close enough to it that astronomers can observe them with high resolution using modern telescopes. First, I created a relational database storing information about several observed properties at each resolved point of the galaxies in the sample, for which I had to combine data from two different surveys. Once this was done, I used the database to calculate derived properties and modeled the data to look for correlations, which confirmed a strong correlation between the local hydrostatic pressure and star formation rate density. This suggests a scenario where the star formation within galaxies self-regulates through increase hydrostatic pressure injected into the interstellar medium by supernova explosions from recently formed stars.
 
-[!UGC1224](/assests/UGC12224_SDSS.png) [!SFR](/assests/UGC12224_SSFR.png) [!Ph-SFR](/assests/Ph-SFR_types.png)
+[!UGC1224](/assets/UGC12224_SDSS.png) [!SFR](/assets/UGC12224_SSFR.png) [!Ph-SFR](/assets/Ph-SFR_types.png)
 
 At the moment I am still working on adding more data science projects to this page. In the meantime, you can view some of the codes I have roduced over at my GitHub profile: [github.com/Bruno-Rodriguez](https://github.com/Bruno-Rodriguez).
 
