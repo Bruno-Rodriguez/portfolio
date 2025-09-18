@@ -7,8 +7,8 @@ Hi! My name is Bruno Rodriguez, welcome to my portfolio website. Below you will 
 I studied Astrophysics and currently work as a freelance data scientist. Throughout my career, I have gained extensive experience in analyzing, processing, and visualizing complex data, which I am able to put to good use in my current work, even outside academia. I am specialized in big data analysis, statistical modeling, and developing data-driven solutions. I take pride in being an effective communicator, both when it comes to science outreach, and presenting the results of my own work, being able to translate technical findings into clear narratives for technical and non-technical audiences.
 
 ## Education					       		
-- M.S., Astrophysics	| Rheinische Friedrich-Wilhelms-Universität Bonn (Bonn, Germany _August 2024_)
-- B.S., Physics | Pontificia Universidad Católica del Perú (Lima, Peru _March 2018_)
+- M.Sc., Astrophysics	| Rheinische Friedrich-Wilhelms-Universität Bonn (Bonn, Germany _August 2024_)
+- B.Sc., Physics | Pontificia Universidad Católica del Perú (Lima, Peru _March 2018_)
 
 ## Technical Skills
 Some of the technological tools that I regularly use in my projects, both personal and professional:
@@ -22,10 +22,10 @@ Python programming (Numpy, SciPy) - Data analysis (Pandas, SQL) - Machine Learni
 ### Hydrostatic pressure as predictor of star formation
 As part of my Master's degree at the University of Bonn, I wrote my Master's thesis on the relationships between the stelalr mass density, gas mass density, local hydrostatic pressure and the star formation rate density on kiloparsec scales in nearby galaxies, outside the Milky Way but close enough to it that astronomers can observe them with high resolution using modern telescopes. First, I created a relational database storing information about several observed properties at each resolved point of the galaxies in the sample, for which I had to combine data from two different surveys. Once this was done, I used the database to calculate derived properties and modeled the data to look for correlations, which confirmed a strong correlation between the local hydrostatic pressure and star formation rate density. This suggests a scenario where the star formation within galaxies self-regulates through increase hydrostatic pressure injected into the interstellar medium by supernova explosions from recently formed stars.
 
-<img title="UGC1224" src="/portfolio/assets/UGC12224_SDSS.png" width="300"> <img src="/portfolio/assets/UGC12224_SSFR.png" width="320"> <img src="/portfolio/assets/Ph-SFR_types.png" width="350">
-
+<img title="UGC1224" src="/portfolio/assets/UGC12224_SDSS.png" width="300"> <img title="UGC1224_SFR" src="/portfolio/assets/UGC12224_SSFR.png" width="320"> <img title="Ph-SFR" src="/portfolio/assets/Ph-SFR_types.png" width="320">
+<!--
 ![UGC1224](/assets/UGC12224_SDSS.png) ![SFR](/assets/UGC12224_SSFR.png) ![Ph-SFR](/assets/Ph-SFR_types.png)
-
+-->
 
 At the moment I am still working on adding more data science projects to this page. In the meantime, you can view some of the codes I have roduced over at my GitHub profile: [github.com/Bruno-Rodriguez](https://github.com/Bruno-Rodriguez).
 
@@ -33,7 +33,7 @@ At the moment I am still working on adding more data science projects to this pa
 
 CosmoAmautas is a science outreach project funded by the International Astronomical Union's [Office of Astronomy for Development](https://astro4dev.org/), with the goal of expanding interest and knowledge about astronomy in young students in Peru, with a particular focus on encouraging the participation of girls and women in STEM fields. The project is run entirely by a talented group of peruvian researchers, educators and artists, and I have been a part of the team since its inception in 2020. We have held 3 series of workshops directed at high school teachers, during which we introduced the participants to several astronomical concepts, and explained how they can use hands-on experiences to impart their newly acquired knowledge to their students in fun and interactive ways. You can learn more about CosmoAmautas at the project's official website: [cosmoamautas.org](https://www.cosmoamautas.org/).
 
-<img src="/assets/logo2.png" width="300"> <img src="/assets/CA_book_cover.png" width="150">
+<img title="comsoamautas_logo" src="/portfolio/assets/logo2.png" width="300"> <img title="cosmoamautas_book" src="/portfolio/assets/CA_book_cover.png" width="160">
 <!--
 ![CA_logo](/assets/logo2.png) ![CA_book](/assets/CA_book_cover.png)
 -->
