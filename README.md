@@ -1,12 +1,14 @@
 # Portfolio
 
-Hi! My name is Bruno Rodriguez, and I am a data scientist with a background in physics and over four years of experience in analyzing, processing, and visualizing complex data. Specialized in big data analysis, statistical modeling, and developing data-driven solutions. Strong skills in data cleaning, query optimization, and visualization creation. Effective communicator, able to translate technical fi ndings into clear narratives for technical and non-technical audiences.
+### [E-mail](rodriguez.bruno@pucp.pe), [LinkedIn](https://www.linkedin.com/in/bruno-cesar-rodriguez/), [GitHub](https://github.com/Bruno-Rodriguez)
 
-Welcome to my portfolio website. Below you will find 
+Hi! My name is Bruno Rodriguez, welcome to my portfolio website. Below you will find some information about myself, my career, and different projects I have worked on. Have a look at them!
+
+I am a data scientist with a background in physics and astronomy. and over four years of experience in analyzing, processing, and visualizing complex data. Specialized in big data analysis, statistical modeling, and developing data-driven solutions. Strong skills in data cleaning, query optimization, and visualization creation. Effective communicator, able to translate technical fi ndings into clear narratives for technical and non-technical audiences.
 
 ## Education					       		
-- M.S., Physics	| Rheinische Friedrich-Wilhelms-Universität Bonn, Germany (_August 2024_)
-- B.S., Physics | Pontificia Universidad Católica del Perú, Peru (_March 2018_)
+- M.S., Physics	| Rheinische Friedrich-Wilhelms-Universität Bonn (Bonn, Germany _August 2024_)
+- B.S., Physics | Pontificia Universidad Católica del Perú (Lima, Peru _March 2018_)
 
 ## Technical Skills
 Some of the technological tools that I regularly use in my projects, both personal and professional:
@@ -17,16 +19,18 @@ Python programming (Numpy, SciPy) - Data analysis (Pandas, SQL) - Machine Learni
 
 ## Projects
 
-### Hydrostatic pressure as predictor of star formation in nearby galaxies
+### Hydrostatic pressure as predictor of star formation
+As part of my Master's degree at the University of Bonn, I wrote my Master's thesis on the relationships between the stelalr mass density, gas mass density, local hydrostatic pressure and the star formation rate density on kiloparsec scales in nearby galaxies, outside the Milky Way but close enough to it that astronomers can observe them with high resolution using modern telescopes. First, I created a relational database storing information about several observed properties at each resolved point of the galaxies in the sample, for which I had to combine data from two different surveys. Once this was done, I used the database to calculate derived properties and modeled the data to look for correlations, which confirmed a strong correlation between the local hydrostatic pressure and star formation rate density. This suggests a scenario where the star formation within galaxies self-regulates through increase hydrostatic pressure injected into the interstellar medium by supernova explosions from recently formed stars.
 
+[!UGC1224](/assests/UGC12224_SDSS.png) [!SFR](/assests/UGC12224_SSFR.png) [!Ph-SFR](/assests/Ph-SFR_types.png)
 
-At the moment I am still working on adding more data science projects to this page. In the meantime, you can check out my GitHub profile: [Bruno-Rodriguez](https://github.com/Bruno-Rodriguez)
+At the moment I am still working on adding more data science projects to this page. In the meantime, you can view some of the codes I have roduced over at my GitHub profile: [github.com/Bruno-Rodriguez](https://github.com/Bruno-Rodriguez).
 
 ### CosmoAmautas
 
-CosmoAmautas is a science outreach project funded by the International Astronomical Union's [Office of Astronomy for Development](https://astro4dev.org/), with the goal of expanding interest and knowledge about astronomy in young students in Peru, with a particular focus on encouraging the participation of girls and women in STEM fields. The project is run entirely by a talented group of peruvian researchers, educators and artists, and I have been a part of the team since its inception in 2020. We have . You can learn more about CosmoAmautas at the project's official website: [cosmoamautas.org](https://www.cosmoamautas.org/)
+CosmoAmautas is a science outreach project funded by the International Astronomical Union's [Office of Astronomy for Development](https://astro4dev.org/), with the goal of expanding interest and knowledge about astronomy in young students in Peru, with a particular focus on encouraging the participation of girls and women in STEM fields. The project is run entirely by a talented group of peruvian researchers, educators and artists, and I have been a part of the team since its inception in 2020. We have . You can learn more about CosmoAmautas at the project's official website: [cosmoamautas.org](https://www.cosmoamautas.org/).
 
-We also wrote a book to explain the theoretical conccepts introduced during the workshops, and to serve as a guide during the hands-on sessions. I wrote all of Chapter 4 and helped edit the book as a whole, which is in Spanish since it's target audience are high school students in rural regions of Peru. You can check out the book's abstract on the Astrophysics Data System: [ADS](https://ui.adsabs.harvard.edu/abs/2021arXiv210911945C/abstract), or access the PDF directly here: [The CosmoAmautas Book](https://arxiv.org/pdf/2109.11945).
+We also wrote a book to explain the theoretical concepts introduced during the workshops, and to serve as a guide during the hands-on sessions. I wrote all of Chapter 4 and helped edit the book as a whole, which is in Spanish since it's target audience are high school students in rural regions of Peru. You can check out the book's abstract on the Astrophysics Data System: [_CosmoAmautas: Astrophysics in the high school classroom_](https://ui.adsabs.harvard.edu/abs/2021arXiv210911945C/abstract), or access the PDF directly here: [The CosmoAmautas Book](https://arxiv.org/pdf/2109.11945).
 
 ## Publications
 Here are some scientific publications to which I contributed:
