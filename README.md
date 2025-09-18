@@ -7,7 +7,7 @@ Hi! My name is Bruno Rodriguez, welcome to my portfolio website. Below you will 
 I studied Astrophysics and currently work as a freelance data scientist. Throughout my career, I have gained extensive experience in analyzing, processing, and visualizing complex data, which I am able to put to good use in my current work, even outside academia. I am specialized in big data analysis, statistical modeling, and developing data-driven solutions. I take pride in being an effective communicator, both when it comes to science outreach, and presenting the results of my own work, being able to translate technical findings into clear narratives for technical and non-technical audiences.
 
 ## Education					       		
-- M.S., Physics	| Rheinische Friedrich-Wilhelms-Universität Bonn (Bonn, Germany _August 2024_)
+- M.S., Astrophysics	| Rheinische Friedrich-Wilhelms-Universität Bonn (Bonn, Germany _August 2024_)
 - B.S., Physics | Pontificia Universidad Católica del Perú (Lima, Peru _March 2018_)
 
 ## Technical Skills
@@ -21,8 +21,8 @@ Python programming (Numpy, SciPy) - Data analysis (Pandas, SQL) - Machine Learni
 
 ### Hydrostatic pressure as predictor of star formation
 As part of my Master's degree at the University of Bonn, I wrote my Master's thesis on the relationships between the stelalr mass density, gas mass density, local hydrostatic pressure and the star formation rate density on kiloparsec scales in nearby galaxies, outside the Milky Way but close enough to it that astronomers can observe them with high resolution using modern telescopes. First, I created a relational database storing information about several observed properties at each resolved point of the galaxies in the sample, for which I had to combine data from two different surveys. Once this was done, I used the database to calculate derived properties and modeled the data to look for correlations, which confirmed a strong correlation between the local hydrostatic pressure and star formation rate density. This suggests a scenario where the star formation within galaxies self-regulates through increase hydrostatic pressure injected into the interstellar medium by supernova explosions from recently formed stars.
-                          https://github.com/Bruno-Rodriguez/portfolio/blob/main/assets/UGC12224_SDSS.png
-<img title="UGC1224" src="https://github.com/Bruno-Rodriguez/portfolio/blob/main/assets/UGC12224_SDSS.png" width="300"> <img src="/assets/UGC12224_SSFR.png" width="320"> <img src="/assets/Ph-SFR_types.png" width="350">
+
+<img title="UGC1224" src="/portfolio/assets/UGC12224_SDSS.png" width="300"> <img src="/portfolio/assets/UGC12224_SSFR.png" width="320"> <img src="/portfolio/assets/Ph-SFR_types.png" width="350">
 
 ![UGC1224](/assets/UGC12224_SDSS.png) ![SFR](/assets/UGC12224_SSFR.png) ![Ph-SFR](/assets/Ph-SFR_types.png)
 
