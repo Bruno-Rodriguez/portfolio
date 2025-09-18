@@ -26,6 +26,7 @@ As part of my Master's degree at the University of Bonn, I wrote my Master's the
 <!--
 ![UGC1224](/assets/UGC12224_SDSS.png) ![SFR](/assets/UGC12224_SSFR.png) ![Ph-SFR](/assets/Ph-SFR_types.png)
 -->
+
 At the moment I am still working on adding more data science projects to this page. In the meantime, you can view some of the codes I have roduced over at my GitHub profile: [github.com/Bruno-Rodriguez](https://github.com/Bruno-Rodriguez).
 
 ### CosmoAmautas
@@ -36,6 +37,7 @@ CosmoAmautas is a science outreach project funded by the International Astronomi
 <!--
 ![CA_logo](/assets/logo2.png) ![CA_book](/assets/CA_book_cover.png)
 -->
+
 We also wrote a book to explain the theoretical concepts introduced during the workshops, and to serve as a guide during the hands-on sessions. I wrote all of Chapter 4 and helped edit the book as a whole, which is in Spanish since it's target audience are high school students in rural regions of Peru. You can check out the book's abstract on the Astrophysics Data System: [_CosmoAmautas: Astrophysics in the high school classroom_](https://ui.adsabs.harvard.edu/abs/2021arXiv210911945C/abstract), or access the PDF directly here: [The CosmoAmautas Book](https://arxiv.org/pdf/2109.11945).
 
 ## Publications
