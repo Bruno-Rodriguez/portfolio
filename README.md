@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education					       		
-- M.S., Physics	| Rheinische Friedrich Willhelms Universität Bonn, Germany (_August 2024_)	 			        		
+- M.S., Physics	| Rheinische Friedrich-Wilhelms-Universität Bonn, Germany (_August 2024_)
 - B.S., Physics | Pontificia Universidad Católica del Perú, Peru (_March 2018_)
 
 ## Projects
