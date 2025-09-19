@@ -2,7 +2,7 @@
 
 ### [E-mail](mailto:rodriguez.bruno@pucp.pe), [LinkedIn](https://www.linkedin.com/in/bruno-cesar-rodriguez/), [GitHub](https://github.com/Bruno-Rodriguez)
 
-Hi! My name is Bruno Rodriguez, welcome to my portfolio website. Below you will find some information about myself, my career, and different projects I have worked on. Take a look at them!
+Hi! My name is Bruno Rodriguez, welcome to my portfolio website. Below you will find some information about myself, my career, and different projects I have worked on. Take a look!
 
 I studied Astrophysics and currently work as a freelance data scientist. Throughout my career, I have gained extensive experience in analyzing, processing, and visualizing complex data, which I am able to put to good use in my current work, even outside academia. I am specialized in big data analysis, statistical modeling, and developing data-driven solutions. I take pride in being an effective communicator, both when it comes to science outreach, and presenting the results of my own work, being able to translate technical findings into clear narratives for technical and non-technical audiences.
 
@@ -13,7 +13,7 @@ I studied Astrophysics and currently work as a freelance data scientist. Through
 ## Technical Skills
 Some of the technological tools that I regularly use in my projects, both personal and professional:
 
-Python programming (Numpy, SciPy) - Data analysis (Pandas, SQL) - Machine Learning (scikit-learn) - Deep Learning (PyTorch) - Data visualization (Seaborn, Power BI) - Version control (Git, GitHub)
+Python programming (Numpy, SciPy) - Data analysis (Pandas, SQL) - Machine Learning (scikit-learn) - Deep Learning (PyTorch) - Data visualization (Seaborn, Power BI) - Version control (Git, GitHub) - Cloud computing (Databricks)
 
 [![My Skills](https://skillicons.dev/icons?i=py,postgres,anaconda,pytorch,sklearn,vscode,git,github,latex&theme=light)](https://skillicons.dev)
 
@@ -27,7 +27,7 @@ As part of my Master's degree at the University of Bonn, I wrote my Master's the
 ![UGC1224](/assets/UGC12224_SDSS.png) ![SFR](/assets/UGC12224_SSFR.png) ![Ph-SFR](/assets/Ph-SFR_types.png)
 -->
 
-At the moment I am still working on adding more data science projects to this page. In the meantime, you can view some of the codes I have roduced over at my GitHub profile: [github.com/Bruno-Rodriguez](https://github.com/Bruno-Rodriguez).
+At the moment I am still working on adding more data science projects to this page. In the meantime, you can view some of the codes I have produced over at my GitHub profile: [github.com/Bruno-Rodriguez](https://github.com/Bruno-Rodriguez).
 
 ### CosmoAmautas
 
