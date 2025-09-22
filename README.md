@@ -2,7 +2,7 @@
 
 ### [E-mail](mailto:rodriguez.bruno@pucp.pe), [LinkedIn](https://www.linkedin.com/in/bruno-cesar-rodriguez/), [GitHub](https://github.com/Bruno-Rodriguez)
 
-[Curriculum in English (PDF)]("https://github.com/Bruno-Rodriguez/portfolio/CV Bruno Rodriguez English.pdf"), [Curriculum en Español (PDF)]("https://github.com/Bruno-Rodriguez/portfolio/CV Bruno Rodriguez Español.pdf")
+[Curriculum in English (PDF)](https://github.com/Bruno-Rodriguez/portfolio/CV_Bruno_Rodriguez_English.pdf), [Curriculum en Español (PDF)](https://github.com/Bruno-Rodriguez/portfolio/CV_Bruno_Rodriguez_Español.pdf)
 
 Hi! My name is Bruno Rodriguez, welcome to my portfolio website. Below you will find some information about myself, my career, and different projects I have worked on. Take a look!
 
