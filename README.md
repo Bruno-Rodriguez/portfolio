@@ -2,6 +2,8 @@
 
 ### [E-mail](mailto:rodriguez.bruno@pucp.pe), [LinkedIn](https://www.linkedin.com/in/bruno-cesar-rodriguez/), [GitHub](https://github.com/Bruno-Rodriguez)
 
+[Curriculum in English (PDF)]("https://github.com/Bruno-Rodriguez/portfolio/CV Bruno Rodriguez English.pdf"), [Curriculum en Español (PDF)]("https://github.com/Bruno-Rodriguez/portfolio/CV Bruno Rodriguez Español.pdf")
+
 Hi! My name is Bruno Rodriguez, welcome to my portfolio website. Below you will find some information about myself, my career, and different projects I have worked on. Take a look!
 
 I studied Astrophysics and currently work as a freelance data scientist. Throughout my career, I have gained extensive experience in analyzing, processing, and visualizing complex data, which I am able to put to good use in my current work, even outside academia. I am specialized in big data analysis, statistical modeling, and developing data-driven solutions. I take pride in being an effective communicator, both when it comes to science outreach, and presenting the results of my own work, being able to translate technical findings into clear narratives for technical and non-technical audiences.
@@ -11,7 +13,7 @@ I studied Astrophysics and currently work as a freelance data scientist. Through
 - B.Sc., Physics | Pontificia Universidad Católica del Perú (Lima, Peru _March 2018_)
 
 ## Technical Skills
-Some of the technological tools that I regularly use in my projects, both personal and professional:
+Some of the digital tools that I regularly use in my projects, both personal and professional:
 
 Python programming (Numpy, SciPy) - Data analysis (Pandas, SQL) - Machine Learning (scikit-learn) - Deep Learning (PyTorch) - Data visualization (Seaborn, Power BI) - Version control (Git, GitHub) - Cloud computing (Databricks)
 
