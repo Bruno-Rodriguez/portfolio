@@ -9,8 +9,12 @@ Hi! My name is Bruno Rodriguez, welcome to my portfolio website. Below you will 
 I studied Astrophysics and currently work as a freelance data scientist. Throughout my career, I have gained extensive experience in analyzing, processing, and visualizing complex data, which I am able to put to good use in my current work, even outside academia. I am specialized in big data analysis, statistical modeling, and developing data-driven solutions. I take pride in being an effective communicator, both when it comes to science outreach, and presenting the results of my own work, being able to translate technical findings into clear narratives for technical and non-technical audiences.
 
 ## Education					       		
+- M.Sc., Astrophysics	| Rheinische Friedrich-Wilhelms-Universität Bonn (Bonn, Germany)
+- B.Sc., Physics | Pontificia Universidad Católica del Perú (Lima, Peru)
+<!--
 - M.Sc., Astrophysics	| Rheinische Friedrich-Wilhelms-Universität Bonn (Bonn, Germany _August 2024_)
 - B.Sc., Physics | Pontificia Universidad Católica del Perú (Lima, Peru _March 2018_)
+-->
 
 ## Technical Skills
 Some of the digital tools that I regularly use in my projects, both personal and professional:
