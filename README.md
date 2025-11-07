@@ -32,7 +32,11 @@ As part of my Master's degree at the University of Bonn, I wrote my Master's the
 ### Creating a classification scheme with SQL
 A SQL project to classify drivers of a delivery company into distinct categories based on their monthly performance. Check the project on my GitHub (in Spanish) [here](https://github.com/Bruno-Rodriguez/SQL_categories).
 
+![view_counts](/assets/view_counts.jpg)
+
+<!--
 At the moment I am still working on adding more data science projects to this page. In the meantime, you can view some of the codes I have produced over at my GitHub profile: [github.com/Bruno-Rodriguez](https://github.com/Bruno-Rodriguez).
+-->
 
 ### CosmoAmautas
 
