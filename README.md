@@ -11,10 +11,6 @@ I studied Astrophysics and currently work as a freelance data scientist. Through
 ## Education					       		
 - M.Sc., Astrophysics	| Rheinische Friedrich-Wilhelms-Universität Bonn (Bonn, Germany)
 - B.Sc., Physics | Pontificia Universidad Católica del Perú (Lima, Peru)
-<!--
-- M.Sc., Astrophysics	| Rheinische Friedrich-Wilhelms-Universität Bonn (Bonn, Germany _August 2024_)
-- B.Sc., Physics | Pontificia Universidad Católica del Perú (Lima, Peru _March 2018_)
--->
 
 ## Technical Skills
 Some of the digital tools that I regularly use in my projects, both personal and professional:
