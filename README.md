@@ -30,7 +30,7 @@ As part of my Master's degree at the University of Bonn, I wrote my Master's the
 -->
 
 ### Creating a classification scheme with SQL
-A SQL project to classify drivers of a delivery company into distinct categories based on their monthly performance. Check the project on my GitHub (in Spanish) [here](https://github.com/Bruno-Rodriguez/SQL_categories).
+A SQL project to classify drivers of a delivery company into distinct categories based on their monthly performance. Check the project on my GitHub (in Spanish) **[here](https://github.com/Bruno-Rodriguez/SQL_categories)**.
 
 ![view_counts](/assets/view_counts.jpg)
 
