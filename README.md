@@ -22,11 +22,9 @@ Python programming (Numpy, SciPy) - Data analysis (Pandas, SQL) - Machine Learni
 ## Projects
 
 ### Hydrostatic pressure as predictor of star formation
-As part of my Master's degree at the University of Bonn, I wrote my Master's thesis on the relationships between the stelalr mass density, gas mass density, local hydrostatic pressure and the star formation rate density on kiloparsec scales in nearby galaxies, outside the Milky Way but close enough to it that astronomers can observe them with high resolution using modern telescopes. First, I created a relational database storing information about several observed properties at each resolved point of the galaxies in the sample, for which I had to combine data from two different surveys. Once this was done, I used the database to calculate derived properties and modeled the data to look for correlations, which confirmed a strong correlation between the local hydrostatic pressure and star formation rate density. This suggests a scenario where the star formation within galaxies self-regulates through increase hydrostatic pressure injected into the interstellar medium by supernova explosions from recently formed stars.
+A summary of my study of the relation between the star formation rate and hydrostatic pressure in galaxies, including a new section where I use machine learning for feature selection to uncover the best predictor of star formation. **[Check the project on my GitHub](https://github.com/Bruno-Rodriguez/Pressure-star-formation)**.
 
-[Check the project on my GitHub]([https://github.com/Bruno-Rodriguez/SQL_categories](https://github.com/Bruno-Rodriguez/Pressure-star-formation))
-
-<img title="barplot" src="/portfolio/assets/barplot.png" width="200"> <img title="SFR-Ph" src="/portfolio/assets/SFR-Ph-relation.png" width="200">
+<img title="barplot" src="/portfolio/assets/barplot.png" width="250"> <img title="SFR-Ph" src="/portfolio/assets/SFR-Ph-relation.png" width="250">
 
 <!--
 <img title="UGC1224" src="/portfolio/assets/UGC12224_SDSS.png" width="300"> <img title="UGC1224_SFR" src="/portfolio/assets/UGC12224_SSFR.png" width="320"> <img title="Ph-SFR" src="/portfolio/assets/Ph-SFR_types.png" width="320">
@@ -34,7 +32,7 @@ As part of my Master's degree at the University of Bonn, I wrote my Master's the
 -->
 
 ### Creating a classification scheme with SQL
-A SQL project to classify drivers of a delivery company into distinct categories based on their monthly performance. [Check the project on my GitHub](https://github.com/Bruno-Rodriguez/SQL_categories) (in Spanish).
+A SQL project to classify drivers of a delivery company into distinct categories based on their monthly performance. **[Check the project on my GitHub](https://github.com/Bruno-Rodriguez/SQL_categories)** (in Spanish).
 
 ![view_counts](/assets/view_counts.jpg)
 
