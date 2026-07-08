@@ -6,7 +6,7 @@
 
 Hi! My name is Bruno Rodriguez, welcome to my portfolio website. Below you will find some information about myself, my career, and different projects I have worked on. Take a look!
 
-I studied Astrophysics and currently work as a freelance data scientist. Throughout my career, I have gained extensive experience in analyzing, processing, and visualizing complex data, which I am able to put to good use in my current work, even outside academia. I am specialized in big data analysis, statistical modeling, and developing data-driven solutions. I take pride in being an effective communicator, both when it comes to science outreach, and presenting the results of my own work, being able to translate technical findings into clear narratives for technical and non-technical audiences.
+I studied Astrophysics and currently work as a freelance data analyst. Throughout my career, I have gained extensive experience in analyzing, processing, and visualizing complex data, which I am able to put to good use in my current work, even outside academia. I am specialized in big data analysis, statistical modeling, and developing data-driven solutions. I take pride in being an effective communicator, both when it comes to science outreach, and presenting the results of my own work, being able to translate technical findings into clear narratives for technical and non-technical audiences.
 
 ## Education					       		
 - M.Sc., Astrophysics	| Rheinische Friedrich-Wilhelms-Universität Bonn (Bonn, Germany)
