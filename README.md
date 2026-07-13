@@ -17,7 +17,7 @@ Some of the digital tools that I regularly use in my projects, both personal and
 
 Python programming (Numpy, SciPy) - Data analysis (Pandas, SQL) - Machine Learning (scikit-learn) - Deep Learning (PyTorch) - Data visualization (Seaborn, Power BI) - Version control (Git, GitHub) - Cloud computing (Databricks)
 
-[![My Skills](https://skillicons.dev/icons?i=py,postgres,anaconda,pytorch,sklearn,vscode,git,github,latex&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,postgres,anaconda,pytorch,sklearn,vscode,git,github,latex,r&theme=light)](https://skillicons.dev)
 
 ## Projects
 
